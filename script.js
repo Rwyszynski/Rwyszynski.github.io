@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://5560fa99-5ef5-4654-a10a-e4d7d62ec534-00-2iytuu25n5tqj.worf.replit.dev/v1/tasks;
+  var apiRoot = 'https://5560fa99-5ef5-4654-a10a-e4d7d62ec534-00-2iytuu25n5tqj.worf.replit.dev/v1/tasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
